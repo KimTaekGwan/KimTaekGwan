@@ -111,9 +111,9 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KimTaekGwan&show_icons=true&theme=radical)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KimTaekGwan&layout=compact&theme=radical)
   
 </div>
 
@@ -129,6 +129,6 @@
   
   *"다양한 도메인 지식을 통해 새로운 가능성을 탐구합니다"*
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+  ![Profile Views](https://komarev.com/ghpvc/?username=KimTaekGwan&color=blueviolet)
   
 </div>
